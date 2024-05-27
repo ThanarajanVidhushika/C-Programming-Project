@@ -9,11 +9,17 @@ OBJECTIVES:-
  
 SYSYTEM FEATURES:-
  I.	User Authentication: The system requires users to authenticate with a username and password to access its functionalities, ensuring security.
+ 
 II.	Grade Input: Users can input grades and credits for each semester, allowing for the calculation of semester GPA and CGPA.
+
 III.	CGPA Calculation: Algorithms are implemented to calculate CGPA based on grades and credits earned across multiple semesters.
+
 IV.	Report Generation: The system generates CGPA reports containing student details, semester-wise GPA, final CGPA, and class classification.
+
 V.	Data Persistence: Student records and reports are stored in files for future reference and auditing purposes.
+
 VI.	Error Handling: The system includes error handling mechanisms to handle invalid inputs and ensure data accuracy.
+
 VII.	Distribution Signature: Students can provide a distributor signature, enhancing the authenticity of the generated reports.
 
 SYSTEM DESIGN:-
